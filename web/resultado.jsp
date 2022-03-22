@@ -56,7 +56,7 @@
             } else if (msg <= 4) {
                 out.print(naluno +":"+ "<i> <scan style='color:red;'> Reprovado" + "</scan>");
             } else {
-                out.print(naluno +";"+ "<b> <scan style='color:orange'> Recuperação" + "</scan>");
+                out.print(naluno +";"+ "<b> <scan style='color:orange;'> Recuperação" + "</scan>");
             }
         %>
     </body>
